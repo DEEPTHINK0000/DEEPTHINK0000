@@ -3,7 +3,7 @@
 - ✅ C/C++ (Familiar) || Python || Java
 - 🗂️ MySQL || MongoDB
 - 📍 HTML || CSS  || JavaScipt, TypeScript  || PHP 
-- ⏳ MERN stack - (Tailwind, Bootstrap) (React, Next.js, Redux-toolkit, Express.js, Mongoose)
+- ⏳ MERN stack - (Tailwind, Bootstrap) (React, Next.js, Redux-toolkit, Express.js, Mongoose) 
 - 💞️ Begginer for Corporate(No Experiences, But some Project in the repo...)
 - 📫 Thank You !
 
