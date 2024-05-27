@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DEEPTHINK0000
 - 👀 I’m a Developer. 
 - ✅ C/C++ (Familiar) || Python || Java
-- 📍 HTML || CSS (Tailwind, Bootstrap) || JavaScipt(React, Next.js, Redux-toolkit, Express.js) || PHP 
-- ⏳ I’m currently learning - MERN stack 
+- 🗂️ MySQL || MongoDB
+- 📍 HTML || CSS  || JavaScipt, TypeScript  || PHP 
+- ⏳ MERN stack - (Tailwind, Bootstrap) (React, Next.js, Redux-toolkit, Express.js)
 - 💞️ Begginer for Corporate(No Experiences, But some Project in the repo...)
 - 📫 Thank You !
 
